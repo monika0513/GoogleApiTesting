@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="777" started-at="2016-08-24T00:11:24Z" finished-at="2016-08-24T00:11:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="777" started-at="2016-08-24T00:11:24Z" finished-at="2016-08-24T00:11:25Z">
+      <class name="com.ip.rest1.automationHTTPRestApi.HttpClientRestAutomation">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.ip.rest1.automationHTTPRestApi.HttpClientRestAutomation@48dd639c]" name="setup" is-config="true" duration-ms="729" started-at="2016-08-23T17:11:24Z" finished-at="2016-08-23T17:11:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testHeaderContentType()[pri:0, instance:com.ip.rest1.automationHTTPRestApi.HttpClientRestAutomation@48dd639c]" name="testHeaderContentType" duration-ms="8" started-at="2016-08-23T17:11:25Z" finished-at="2016-08-23T17:11:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHeaderContentType -->
+        <test-method status="PASS" signature="testStatuscode()[pri:0, instance:com.ip.rest1.automationHTTPRestApi.HttpClientRestAutomation@48dd639c]" name="testStatuscode" duration-ms="9" started-at="2016-08-23T17:11:25Z" finished-at="2016-08-23T17:11:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStatuscode -->
+      </class> <!-- com.ip.rest1.automationHTTPRestApi.HttpClientRestAutomation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

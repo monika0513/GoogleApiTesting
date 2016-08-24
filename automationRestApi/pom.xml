@@ -1,0 +1,90 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>com.ip.rest1</groupId>
+  <artifactId>automationHTTPRestApi</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>jar</packaging>
+
+  <name>automationHTTPRestApi</name>
+  <url>http://maven.apache.org</url>
+
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+
+  <dependencies>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>4.11</version>
+      <scope>test</scope>
+    </dependency>
+<dependency>
+    <groupId>org.apache.httpcomponents</groupId>
+    <artifactId>httpclient</artifactId>
+    <version>4.4</version>
+</dependency>
+<dependency>
+    <groupId>com.jayway.restassured</groupId>
+    <artifactId>rest-assured</artifactId>
+    <version>2.9.0</version>
+</dependency>
+<dependency>
+    <groupId>org.testng</groupId>
+    <artifactId>testng</artifactId>
+    <version>6.9.10</version>
+</dependency>
+<dependency>
+    <groupId>oauth.signpost</groupId>
+    <artifactId>signpost-commonshttp4</artifactId>
+    <version>1.2.1.2</version>
+</dependency>
+<dependency>
+    <groupId>oauth.signpost</groupId>
+    <artifactId>signpost-commonshttp4</artifactId>
+    <version>1.2.1.1</version>
+</dependency>
+   <dependency>
+            <groupId>com.googlecode.json-simple</groupId>
+            <artifactId>json-simple</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.json</groupId>
+            <artifactId>json</artifactId>
+        </dependency>
+            		<dependency>
+    			<groupId>com.googlecode.json-simple</groupId>
+    			<artifactId>json-simple</artifactId>
+    			<version>1.1.1</version>
+    		</dependency>
+    		<dependency>
+    			<groupId>org.json</groupId>
+    			<artifactId>json</artifactId>
+    			<version>20090211</version>
+    		</dependency>
+    		<!-- https://mvnrepository.com/artifact/net.oauth.core/oauth-provider -->
+<dependency>
+    <groupId>net.oauth.core</groupId>
+    <artifactId>oauth-provider</artifactId>
+    <version>20100527</version>
+</dependency>
+<!-- https://mvnrepository.com/artifact/com.github.ldeitos/rest-util -->
+<dependency>
+    <groupId>com.github.ldeitos</groupId>
+    <artifactId>rest-util</artifactId>
+    <version>1.0.CR2</version>
+</dependency>
+
+    		
+  
+
+
+
+
+
+
+    
+  </dependencies>
+</project>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/Amit/.m2/repository/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar" sourcepath="/Users/Amit/.m2/repository/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/Users/Amit/.m2/repository/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3-javadoc.jar!/"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.apache.httpcomponents"/>
+			<attribute name="maven.artifactId" value="httpclient"/>
+			<attribute name="maven.version" value="4.3.3"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/Amit/.m2/repository/net/sourceforge/htmlunit/htmlunit/2.17/htmlunit-2.17.jar" sourcepath="/Users/Amit/.m2/repository/net/sourceforge/htmlunit/htmlunit/2.17/htmlunit-2.17-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/Users/Amit/.m2/repository/net/sourceforge/htmlunit/htmlunit/2.17/htmlunit-2.17-javadoc.jar!/"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="net.sourceforge.htmlunit"/>
+			<attribute name="maven.artifactId" value="htmlunit"/>
+			<attribute name="maven.version" value="2.17"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/Amit/.m2/repository/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar" sourcepath="/Users/Amit/.m2/repository/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/Users/Amit/.m2/repository/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2-javadoc.jar!/"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.apache.httpcomponents"/>
+			<attribute name="maven.artifactId" value="httpcore"/>
+			<attribute name="maven.version" value="4.3.2"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/Amit/.m2/repository/commons-io/commons-io/2.4/commons-io-2.4.jar" sourcepath="/Users/Amit/.m2/repository/commons-io/commons-io/2.4/commons-io-2.4-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/Users/Amit/.m2/repository/commons-io/commons-io/2.4/commons-io-2.4-javadoc.jar!/"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="commons-io"/>
+			<attribute name="maven.artifactId" value="commons-io"/>
+			<attribute name="maven.version" value="2.4"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/Users/Amit/.m2/repository/org/apache/httpcomponents/httpclient/4.4/httpclient-4.4.jar" sourcepath="/Users/Amit/.m2/repository/org/apache/httpcomponents/httpclient/4.4/httpclient-4.4-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/Users/Amit/.m2/repository/org/apache/httpcomponents/httpclient/4.4/httpclient-4.4-javadoc.jar!/"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.apache.httpcomponents"/>
+			<attribute name="maven.artifactId" value="httpclient"/>
+			<attribute name="maven.version" value="4.4"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/Amit/Documents/selenium-2.53.0/libs/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="/Users/Amit/Downloads/signpost-core-1.2-sources.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
